@@ -14,8 +14,8 @@ Mission, Vision and Value Statement
 ,Implementation Strategy
 
 
-,Tools/Metrics used for Project:
-,SWOT Analysis
+Tools/Metrics used for Project:
+ SWOT Analysis
 ,Ansoff Matrix
 ,Porter's 5 force analysis
 ,As-Is/To-Be Analysis 
